@@ -1,4 +1,4 @@
-# Reddit API Mini Project (Gym/Fitness)
+# Reddit API Project (Gym/Fitness)
 Student: <Your Name>
 
 This project collects posts from r/Gymshark, r/bodybuilding, and r/Fitness.
